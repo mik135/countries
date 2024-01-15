@@ -31,3 +31,8 @@ body {
 .shadowSet {
     box-shadow: 0px 0px 10px rgba(1, 18, 52, 0.626);
 }
+
+.back {
+    box-shadow: 0px 0px 6px gray;
+    font-size: 0.9rem;
+}
